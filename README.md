@@ -1,4 +1,4 @@
-# 🌸 Mumzworld AI Product Discovery Assistant
+# 🌸 Mumzworld AI Product Discovery Assistant - TRACK A
 
 A smart, semantic search-powered shopping assistant for Mumzworld. Users type natural language queries and receive intelligent, AI-generated product recommendations from a curated catalog.
 
