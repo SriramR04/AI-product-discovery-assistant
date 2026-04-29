@@ -53,7 +53,7 @@ Open a terminal in VS Code (`Ctrl + ~`) and run:
 
 ```bash
 python -m venv venv
-venv\Scriptsctivate
+venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
